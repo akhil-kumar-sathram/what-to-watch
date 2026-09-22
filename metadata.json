@@ -1,0 +1,6 @@
+{
+  "name": "WHAT TO WATCH",
+  "description": "A movie for how you feel. Personalized cinematic movie recommendations based on your mood, day, and emotional state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
